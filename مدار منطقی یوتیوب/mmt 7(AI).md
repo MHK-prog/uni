@@ -14,7 +14,7 @@
 
 ---
 
-## ۲. اصول و قضاویای جبر بول (Boolean Algebra Axioms & Theorems)
+## ۲. اصول و قضایای جبر بول (Boolean Algebra Axioms & Theorems)
 
 1. **بسته بودن (Closure):**
    $$a, b \in K \implies a+b \in K \quad , \quad a \cdot b \in K$$
